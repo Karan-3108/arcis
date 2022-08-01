@@ -85,7 +85,7 @@ func InitCmd(mbm module.BasicManager, defaultNodeHome string) *cobra.Command {
 			seeds := []string{
 				"ed153676e97acdac54ff267a508d6f60864eedb4@monolith-z1.arcischain.io:26656",
 				"e0d33e9b94e85f928be3488730b8ff5902a1be83@monolith-z2.arcischain.io:26656",
-				}
+			}
 			config.P2P.Seeds = strings.Join(seeds, ",")
 
 			config.Mempool.Size = 10000
