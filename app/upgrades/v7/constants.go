@@ -2,7 +2,7 @@ package v7
 
 const (
 	// UpgradeName is the shared upgrade plan name for mainnet and testnet
-	UpgradeName = "v7.0.0"
+	UpgradeName = "v1.0.3a"
 	// MainnetUpgradeHeight defines the Arcis mainnet block height on which the upgrade will take place
 	MainnetUpgradeHeight = 0
 	// TODO: TestnetUpgradeHeight defines the Arcis testnet block height on which the upgrade will take place
