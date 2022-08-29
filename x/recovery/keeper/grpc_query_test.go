@@ -3,7 +3,7 @@ package keeper_test
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/recovery/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/types"
 )
 
 func (suite *KeeperTestSuite) TestQueryParams() {

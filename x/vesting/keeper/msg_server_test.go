@@ -9,8 +9,8 @@ import (
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/testutil"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/vesting/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 )
 

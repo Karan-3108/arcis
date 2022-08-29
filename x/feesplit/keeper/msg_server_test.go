@@ -11,7 +11,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
 )
 
 func (suite *KeeperTestSuite) TestRegisterFeeSplit() {

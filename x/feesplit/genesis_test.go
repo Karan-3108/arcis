@@ -15,9 +15,9 @@ import (
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 	feemarkettypes "github.com/Ambiplatforms-TORQUE/ethermint/x/feemarket/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/feesplit"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
 )
 
 type GenesisTestSuite struct {

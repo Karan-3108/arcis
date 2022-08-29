@@ -1,8 +1,8 @@
 package inflation
 
 import (
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 )
 

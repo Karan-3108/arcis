@@ -19,9 +19,9 @@ import (
 
 	evm "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/epochs/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
 )
 
 var denomMint = types.DefaultInflationDenom

@@ -9,8 +9,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	arcisd "github.com/Ambiplatforms-TORQUE/arcis/v6/cmd/arcisd"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	arcisd "github.com/Ambiplatforms-TORQUE/arcis/v7/cmd/arcisd"
 )
 
 func TestInitCmd(t *testing.T) {

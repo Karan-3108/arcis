@@ -17,9 +17,9 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/client/cli"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/client/cli"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
 )
 
 var (

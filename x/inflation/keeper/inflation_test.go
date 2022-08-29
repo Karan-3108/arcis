@@ -3,8 +3,8 @@ package keeper_test
 import (
 	"fmt"
 
-	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/types"
+	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"

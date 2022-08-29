@@ -8,8 +8,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/contracts"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/contracts"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 )
 

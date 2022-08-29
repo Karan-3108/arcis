@@ -11,7 +11,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/query"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
 )
 
 var _ types.QueryServer = Keeper{}

@@ -39,9 +39,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/crisis"
 	genutilcli "github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	cmdcfg "github.com/Ambiplatforms-TORQUE/arcis/v6/cmd/config"
-	arciskr "github.com/Ambiplatforms-TORQUE/arcis/v6/crypto/keyring"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	cmdcfg "github.com/Ambiplatforms-TORQUE/arcis/v7/cmd/config"
+	arciskr "github.com/Ambiplatforms-TORQUE/arcis/v7/crypto/keyring"
 )
 
 const (

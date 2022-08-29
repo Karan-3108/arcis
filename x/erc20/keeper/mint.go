@@ -5,7 +5,7 @@ import (
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
 )
 
 // MintingEnabled checks that:

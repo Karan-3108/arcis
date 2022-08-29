@@ -36,10 +36,10 @@ import (
 	evm "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/contracts"
-	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/epochs/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/contracts"
+	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
 )
 
 var (

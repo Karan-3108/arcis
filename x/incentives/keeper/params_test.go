@@ -1,6 +1,6 @@
 package keeper_test
 
-import "github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
+import "github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
 
 func (suite *KeeperTestSuite) TestParams() {
 	params := suite.app.IncentivesKeeper.GetParams(suite.ctx)

@@ -7,7 +7,7 @@ import (
 
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
 )
 
 // Keeper of the inflation store

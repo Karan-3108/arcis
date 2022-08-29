@@ -19,9 +19,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	simtypes "github.com/cosmos/cosmos-sdk/types/simulation"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/recovery/client/cli"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/recovery/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/recovery/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/client/cli"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/types"
 )
 
 // type check to ensure the interface is properly implemented

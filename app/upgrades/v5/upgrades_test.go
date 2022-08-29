@@ -21,11 +21,11 @@ import (
 
 	ibctransfertypes "github.com/cosmos/ibc-go/v3/modules/apps/transfer/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	v5 "github.com/Ambiplatforms-TORQUE/arcis/v6/app/upgrades/v5"
-	arcistypes "github.com/Ambiplatforms-TORQUE/arcis/v6/types"
-	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/keeper"
-	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	v5 "github.com/Ambiplatforms-TORQUE/arcis/v7/app/upgrades/v5"
+	arcistypes "github.com/Ambiplatforms-TORQUE/arcis/v7/types"
+	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/keeper"
+	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
 )
 
 type UpgradeTestSuite struct {

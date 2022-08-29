@@ -10,7 +10,7 @@ import (
 	govrest "github.com/cosmos/cosmos-sdk/x/gov/client/rest"
 	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
 )
 
 // RegisterIncentiveProposalRequest defines a request for a new register a

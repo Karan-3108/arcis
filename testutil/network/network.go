@@ -27,7 +27,7 @@ import (
 	dbm "github.com/tendermint/tm-db"
 	"google.golang.org/grpc"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
 	"github.com/Ambiplatforms-TORQUE/ethermint/crypto/hd"
 	"github.com/cosmos/cosmos-sdk/baseapp"
 	"github.com/cosmos/cosmos-sdk/client"

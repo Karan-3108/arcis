@@ -4,7 +4,7 @@ package arcis.feesplit.v1;
 import "arcis/feesplit/v1/feesplit.proto";
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/arcis/arcis/v6/x/feesplit/types";
+option go_package = "github.com/arcis/arcis/v7/x/feesplit/types";
 
 // GenesisState defines the module's genesis state.
 message GenesisState {

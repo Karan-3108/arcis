@@ -5,9 +5,9 @@ import (
 
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 
-	arcis "github.com/Ambiplatforms-TORQUE/arcis/v6/types"
-	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/types"
+	arcis "github.com/Ambiplatforms-TORQUE/arcis/v7/types"
+	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
 )
 
 // 200M token at year 4 allocated to the team

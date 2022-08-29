@@ -3,7 +3,7 @@ package keeper
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
 )
 
 // GetParams returns the total set of claim parameters.

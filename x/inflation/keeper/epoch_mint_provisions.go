@@ -3,7 +3,7 @@ package keeper
 import (
 	"fmt"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 )
 

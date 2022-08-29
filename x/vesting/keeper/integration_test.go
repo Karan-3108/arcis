@@ -7,9 +7,9 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app/ante"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app/ante"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 
@@ -22,7 +22,7 @@ import (
 	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/vesting/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
 )
 
 // Clawback vesting with Cliff and Lock. In this case the cliff is reached

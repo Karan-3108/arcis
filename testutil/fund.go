@@ -1,7 +1,7 @@
 package testutil
 
 import (
-	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/inflation/types"
+	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	bankkeeper "github.com/cosmos/cosmos-sdk/x/bank/keeper"
 )

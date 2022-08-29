@@ -22,9 +22,9 @@ import (
 	feemarketv011 "github.com/Ambiplatforms-TORQUE/ethermint/x/feemarket/migrations/v011"
 	feemarkettypes "github.com/Ambiplatforms-TORQUE/ethermint/x/feemarket/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/types"
-	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/keeper"
-	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/types"
+	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/keeper"
+	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
 )
 
 // TestnetDenomMetadata defines the metadata for the tARCIS denom on testnet

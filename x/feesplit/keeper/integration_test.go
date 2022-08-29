@@ -10,9 +10,9 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/testutil"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/crypto/ethsecp256k1"
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"

@@ -6,8 +6,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
 )
 
 // NewHandler returns claim module messages

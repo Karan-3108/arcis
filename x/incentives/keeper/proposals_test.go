@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 )
 

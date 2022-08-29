@@ -16,9 +16,9 @@ import (
 	host "github.com/cosmos/ibc-go/v3/modules/core/24-host"
 	"github.com/cosmos/ibc-go/v3/modules/core/exported"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/ibc"
-	arcis "github.com/Ambiplatforms-TORQUE/arcis/v6/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/recovery/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/ibc"
+	arcis "github.com/Ambiplatforms-TORQUE/arcis/v7/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/types"
 )
 
 // OnRecvPacket performs an IBC receive callback. It returns the tokens that

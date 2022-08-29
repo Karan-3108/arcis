@@ -7,7 +7,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/vesting/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
 )
 
 // Keeper of this module maintains collections of vesting.

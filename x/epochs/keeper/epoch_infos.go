@@ -4,7 +4,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/store/prefix"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/epochs/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
 )
 
 // GetEpochInfo returns epoch info by identifier

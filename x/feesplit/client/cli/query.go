@@ -10,7 +10,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/version"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
 )
 
 // GetQueryCmd returns the cli query commands for this module

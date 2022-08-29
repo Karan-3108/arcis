@@ -6,7 +6,7 @@ import (
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
 )
 
 func (suite *KeeperTestSuite) TestGetIncentivesGasMeters() {

@@ -9,8 +9,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/crypto/ethsecp256k1"
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"

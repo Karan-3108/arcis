@@ -18,9 +18,9 @@ import (
 	"github.com/spf13/cobra"
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/client/cli"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/client/cli"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
 )
 
 // type check to ensure the interface is properly implemented

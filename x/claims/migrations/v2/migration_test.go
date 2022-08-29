@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v6/app"
-	v2 "github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/migrations/v2"
-	claims "github.com/Ambiplatforms-TORQUE/arcis/v6/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	v2 "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/migrations/v2"
+	claims "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 	"github.com/cosmos/cosmos-sdk/testutil"
 	sdk "github.com/cosmos/cosmos-sdk/types"

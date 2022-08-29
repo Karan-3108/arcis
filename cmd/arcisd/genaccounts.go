@@ -23,10 +23,10 @@ import (
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 
-	arciskr "github.com/Ambiplatforms-TORQUE/arcis/v6/crypto/keyring"
+	arciskr "github.com/Ambiplatforms-TORQUE/arcis/v7/crypto/keyring"
 
-	vestingcli "github.com/Ambiplatforms-TORQUE/arcis/v6/x/vesting/client/cli"
-	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v6/x/vesting/types"
+	vestingcli "github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/client/cli"
+	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
 )
 
 const (
