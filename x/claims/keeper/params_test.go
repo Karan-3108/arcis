@@ -1,7 +1,7 @@
 package keeper_test
 
 import (
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
 )
 
 func (suite *KeeperTestSuite) TestParams() {

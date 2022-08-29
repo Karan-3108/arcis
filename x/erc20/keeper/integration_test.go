@@ -14,9 +14,9 @@ import (
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/app"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
 
 	authsigning "github.com/cosmos/cosmos-sdk/x/auth/signing"
 	abci "github.com/tendermint/tendermint/abci/types"

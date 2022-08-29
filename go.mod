@@ -1,4 +1,4 @@
-module github.com/Ambiplatforms-TORQUE/arcis/v7
+module github.com/Ambiplatforms-TORQUE/arcis/v8
 
 go 1.18
 

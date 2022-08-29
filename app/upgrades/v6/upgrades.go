@@ -14,9 +14,9 @@ import (
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 	feemarkettypes "github.com/Ambiplatforms-TORQUE/ethermint/x/feemarket/types"
 
-	v5 "github.com/Ambiplatforms-TORQUE/arcis/v7/app/upgrades/v5"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/types"
-	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/keeper"
+	v5 "github.com/Ambiplatforms-TORQUE/arcis/v8/app/upgrades/v5"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/types"
+	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/keeper"
 )
 
 // CreateUpgradeHandler creates an SDK upgrade handler for v6

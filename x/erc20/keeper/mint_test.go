@@ -7,7 +7,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
 )
 
 func (suite *KeeperTestSuite) TestMintingEnabled() {

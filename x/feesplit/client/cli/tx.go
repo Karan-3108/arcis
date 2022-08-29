@@ -13,7 +13,7 @@ import (
 
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/feesplit/types"
 )
 
 // NewTxCmd returns a root CLI command handler for certain modules/feesplit

@@ -19,7 +19,7 @@ import (
 
 	ibcgotesting "github.com/cosmos/ibc-go/v3/testing"
 
-	arcisapp "github.com/Ambiplatforms-TORQUE/arcis/v7/app"
+	arcisapp "github.com/Ambiplatforms-TORQUE/arcis/v8/app"
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 )
 

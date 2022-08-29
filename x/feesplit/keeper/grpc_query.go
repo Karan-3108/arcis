@@ -13,7 +13,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/query"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/feesplit/types"
 )
 
 var _ types.QueryServer = Keeper{}

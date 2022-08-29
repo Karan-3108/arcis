@@ -5,7 +5,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/incentives/types"
 )
 
 // GetAllIncentives - get all registered Incentives

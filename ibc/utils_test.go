@@ -3,7 +3,7 @@ package ibc
 import (
 	"testing"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
 	"github.com/stretchr/testify/require"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"

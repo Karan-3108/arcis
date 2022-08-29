@@ -7,9 +7,9 @@ import (
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 	"github.com/cosmos/ibc-go/v3/modules/core/exported"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/ibc"
-	arcis "github.com/Ambiplatforms-TORQUE/arcis/v7/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/ibc"
+	arcis "github.com/Ambiplatforms-TORQUE/arcis/v8/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
 )
 
 // OnAcknowledgementPacket performs an IBC send callback. Once a user submits an

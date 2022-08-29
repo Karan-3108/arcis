@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/flags"
 )

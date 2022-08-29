@@ -8,8 +8,8 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
-	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
+	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/epochs/types"
+	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/incentives/types"
 )
 
 var (

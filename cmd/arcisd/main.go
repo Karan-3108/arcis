@@ -7,8 +7,8 @@ import (
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
-	cmdcfg "github.com/Ambiplatforms-TORQUE/arcis/v7/cmd/config"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/app"
+	cmdcfg "github.com/Ambiplatforms-TORQUE/arcis/v8/cmd/config"
 )
 
 func main() {

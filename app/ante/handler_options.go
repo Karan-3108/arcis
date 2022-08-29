@@ -14,7 +14,7 @@ import (
 	ethante "github.com/Ambiplatforms-TORQUE/ethermint/app/ante"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 
-	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
+	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/vesting/types"
 )
 
 // HandlerOptions defines the list of module keepers required to run the Arcis

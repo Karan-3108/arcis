@@ -3,8 +3,8 @@ package client
 import (
 	govclient "github.com/cosmos/cosmos-sdk/x/gov/client"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/client/cli"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/client/rest"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/client/cli"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/client/rest"
 )
 
 var (

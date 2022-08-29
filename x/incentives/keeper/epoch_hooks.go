@@ -3,7 +3,7 @@ package keeper
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
+	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/epochs/types"
 )
 
 // BeforeEpochStart performs a no-op

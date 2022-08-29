@@ -7,7 +7,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/vesting/types"
 )
 
 var _ types.QueryServer = Keeper{}

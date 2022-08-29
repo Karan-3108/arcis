@@ -8,9 +8,9 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/contracts"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/contracts"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
 )
 
 func (suite *KeeperTestSuite) TestQueryERC20() {

@@ -17,7 +17,7 @@ import (
 
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
 )
 
 // NewTxCmd returns a root CLI command handler for erc20 transaction commands

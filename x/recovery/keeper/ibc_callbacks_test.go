@@ -3,7 +3,7 @@ package keeper_test
 import (
 	"fmt"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/testutil"
 	"github.com/Ambiplatforms-TORQUE/ethermint/crypto/ethsecp256k1"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 	"github.com/cosmos/cosmos-sdk/crypto/keys/secp256k1"
@@ -17,11 +17,11 @@ import (
 	ibcgotesting "github.com/cosmos/ibc-go/v3/testing"
 	ibcmock "github.com/cosmos/ibc-go/v3/testing/mock"
 
-	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
-	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/types"
-	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
+	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
+	incentivestypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/recovery/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/recovery/types"
+	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/vesting/types"
 )
 
 func (suite *KeeperTestSuite) TestOnRecvPacket() {

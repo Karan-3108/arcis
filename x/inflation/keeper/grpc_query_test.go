@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 )
 

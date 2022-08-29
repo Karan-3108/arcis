@@ -10,8 +10,8 @@ import (
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/contracts"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/contracts"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
 )
 
 var _ types.MsgServer = &Keeper{}

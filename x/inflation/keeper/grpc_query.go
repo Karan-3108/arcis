@@ -3,7 +3,7 @@ package keeper
 import (
 	"context"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

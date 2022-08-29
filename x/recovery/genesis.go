@@ -3,8 +3,8 @@ package recovery
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/recovery/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/recovery/types"
 )
 
 // InitGenesis import module genesis

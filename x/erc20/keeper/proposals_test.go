@@ -12,9 +12,9 @@ import (
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
-	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
+	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 )
 
 const (

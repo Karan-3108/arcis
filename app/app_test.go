@@ -13,7 +13,7 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 	dbm "github.com/tendermint/tm-db"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 )
 

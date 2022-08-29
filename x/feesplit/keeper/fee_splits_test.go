@@ -3,7 +3,7 @@ package keeper_test
 import (
 	"fmt"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/feesplit/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/ethereum/go-ethereum/common"

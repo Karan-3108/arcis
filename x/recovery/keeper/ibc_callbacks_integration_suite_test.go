@@ -15,12 +15,12 @@ import (
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 	ibcgotesting "github.com/cosmos/ibc-go/v3/testing"
 
-	ibctesting "github.com/Ambiplatforms-TORQUE/arcis/v7/ibc/testing"
+	ibctesting "github.com/Ambiplatforms-TORQUE/arcis/v8/ibc/testing"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
-	claimtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
-	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/app"
+	claimtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
+	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/recovery/types"
 	minttypes "github.com/cosmos/cosmos-sdk/x/mint/types"
 )
 

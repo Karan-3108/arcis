@@ -12,9 +12,9 @@ import (
 
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
-	v2 "github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/migrations/v2"
-	erc20types "github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/app"
+	v2 "github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/migrations/v2"
+	erc20types "github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
 )
 
 func TestUpdateParams(t *testing.T) {

@@ -3,7 +3,7 @@ package keeper_test
 import (
 	"time"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/epochs/types"
 )
 
 func (suite *KeeperTestSuite) TestEpochLifeCycle() {

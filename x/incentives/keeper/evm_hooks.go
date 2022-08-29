@@ -11,7 +11,7 @@ import (
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/incentives/types"
 )
 
 var _ evmtypes.EvmHooks = Hooks{}

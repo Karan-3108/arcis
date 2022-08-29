@@ -17,11 +17,11 @@ import (
 	"github.com/Ambiplatforms-TORQUE/ethermint/crypto/ethsecp256k1"
 	feemarkettypes "github.com/Ambiplatforms-TORQUE/ethermint/x/feemarket/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
-	v7 "github.com/Ambiplatforms-TORQUE/arcis/v7/app/upgrades/v7"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
-	arcistypes "github.com/Ambiplatforms-TORQUE/arcis/v7/types"
-	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/app"
+	v7 "github.com/Ambiplatforms-TORQUE/arcis/v8/app/upgrades/v7"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/testutil"
+	arcistypes "github.com/Ambiplatforms-TORQUE/arcis/v8/types"
+	claimstypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
 )
 
 type UpgradeTestSuite struct {

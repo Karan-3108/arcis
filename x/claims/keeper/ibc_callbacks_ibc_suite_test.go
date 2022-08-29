@@ -12,10 +12,10 @@ import (
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 	ibcgotesting "github.com/cosmos/ibc-go/v3/testing"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/app"
-	ibctesting "github.com/Ambiplatforms-TORQUE/arcis/v7/ibc/testing"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/app"
+	ibctesting "github.com/Ambiplatforms-TORQUE/arcis/v8/ibc/testing"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 )
 

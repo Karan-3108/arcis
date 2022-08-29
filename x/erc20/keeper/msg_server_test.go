@@ -9,8 +9,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/erc20/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/erc20/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/x/evm/statedb"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 )

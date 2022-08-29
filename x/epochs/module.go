@@ -20,9 +20,9 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/client/cli"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/epochs/client/cli"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/epochs/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/epochs/types"
 )
 
 var (

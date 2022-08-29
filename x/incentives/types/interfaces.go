@@ -14,7 +14,7 @@ import (
 	"github.com/Ambiplatforms-TORQUE/ethermint/x/evm/statedb"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 
-	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 )
 
 // AccountKeeper defines the expected interface needed to retrieve account info.

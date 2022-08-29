@@ -7,9 +7,9 @@ import (
 	bankkeeper "github.com/cosmos/cosmos-sdk/x/bank/keeper"
 	upgradetypes "github.com/cosmos/cosmos-sdk/x/upgrade/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/types"
-	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/keeper"
-	inflationkeeper "github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/types"
+	claimskeeper "github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/keeper"
+	inflationkeeper "github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/keeper"
 )
 
 // CreateUpgradeHandler creates an SDK upgrade handler for v7

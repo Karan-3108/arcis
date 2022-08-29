@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"

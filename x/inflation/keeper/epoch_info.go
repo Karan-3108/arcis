@@ -1,7 +1,7 @@
 package keeper
 
 import (
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 )
 

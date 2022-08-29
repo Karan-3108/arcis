@@ -8,8 +8,8 @@ import (
 	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/incentives/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/incentives/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/incentives/types"
 )
 
 // NewIncentivesProposalHandler creates a governance handler to manage new

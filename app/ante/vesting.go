@@ -4,7 +4,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
+	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/vesting/types"
 	evmtypes "github.com/Ambiplatforms-TORQUE/ethermint/x/evm/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/cosmos/cosmos-sdk/x/authz"

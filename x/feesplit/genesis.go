@@ -3,8 +3,8 @@ package feesplit
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/keeper"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/feesplit/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/feesplit/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/feesplit/types"
 )
 
 // InitGenesis import module genesis

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
-	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/testutil"
+	inflationtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 	"github.com/Ambiplatforms-TORQUE/ethermint/crypto/ethsecp256k1"
 	"github.com/Ambiplatforms-TORQUE/ethermint/tests"
 	ethermint "github.com/Ambiplatforms-TORQUE/ethermint/types"
@@ -17,7 +17,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
 )
 
 func (suite *KeeperTestSuite) TestGetClaimableAmountForAction() {

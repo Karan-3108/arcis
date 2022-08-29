@@ -3,8 +3,8 @@ package keeper_test
 import (
 	"fmt"
 
-	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/epochs/types"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/inflation/types"
+	epochstypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/epochs/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/inflation/types"
 )
 
 func (suite *KeeperTestSuite) TestSetGetEpochIdentifier() {

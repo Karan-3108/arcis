@@ -16,8 +16,8 @@ import (
 	"github.com/Ambiplatforms-TORQUE/ethermint/encoding"
 	feemarkettypes "github.com/Ambiplatforms-TORQUE/ethermint/x/feemarket/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/cmd/config"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/cmd/config"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/types"
 )
 
 func init() {

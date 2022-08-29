@@ -9,9 +9,9 @@ import (
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 	distrtypes "github.com/cosmos/cosmos-sdk/x/distribution/types"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/testutil"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/claims/types"
-	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v7/x/vesting/types"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/testutil"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/claims/types"
+	vestingtypes "github.com/Ambiplatforms-TORQUE/arcis/v8/x/vesting/types"
 )
 
 func (suite *KeeperTestSuite) TestEndBlock() {

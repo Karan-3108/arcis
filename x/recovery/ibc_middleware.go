@@ -7,8 +7,8 @@ import (
 	porttypes "github.com/cosmos/ibc-go/v3/modules/core/05-port/types"
 	"github.com/cosmos/ibc-go/v3/modules/core/exported"
 
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/ibc"
-	"github.com/Ambiplatforms-TORQUE/arcis/v7/x/recovery/keeper"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/ibc"
+	"github.com/Ambiplatforms-TORQUE/arcis/v8/x/recovery/keeper"
 )
 
 var _ porttypes.Middleware = &IBCMiddleware{}
