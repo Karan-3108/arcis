@@ -1,7 +1,7 @@
 <!--
 layout: home
 title: Arcis Documentation
-description: Arcis is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality.
+description: Arcis is a scalable and interoperable Ethereum blockchain, built on Proof-of-Stake with fast-finality.
 sections:
   - title: Introduction
     desc: Read a high-level overview of Arcis and its architecture.
